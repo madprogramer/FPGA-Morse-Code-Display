@@ -1,6 +1,5 @@
 # FPGA-Morse-Code-Display
 A School Project written in VHDL for rendering Morse Code on the LED's of an FPGA.
-
 (Click to watch a demonstration, the code reads "this is so sad")
 
 [![Click here to see a demonstration](https://cdn-b-east.streamable.com/image/2opzx_1.jpg?token=WOIzrBknnISiWQjM6lYBHQ&expires=1583454900)](https://streamable.com/2opzx "Demonstration")
