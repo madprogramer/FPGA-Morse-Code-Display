@@ -19,4 +19,6 @@ Next you use the "add" button to add it to memory. You can now encode the next c
 
 # Background
 
-This was originally made as the final project for the lab section of ELEC 204 Digital Design at Koç University. The code is annotated and should probably be adaptable for other FPGA boards as well.
+This was originally made as the final project for the lab section of ELEC 204 Digital Design at Koç University. I challanged myself to only use a single board, so instead of a transmittor or reciever I went for a more "visual" project.
+
+ The code is annotated and should probably be adaptable for other FPGA boards as well.
