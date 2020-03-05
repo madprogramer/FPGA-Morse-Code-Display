@@ -1,0 +1,34 @@
+NET "MCLK"	LOC = "P40";	# CLOCK
+
+#Buttons
+NET "play"	LOC = "P32";  	   # BTN-0
+NET "add"	LOC = "P33";  	   # BTN-2
+NET "delete"	LOC = "P36";   # BTN-3
+NET "reset"	LOC = "P37";   # BTN-1
+NET "modeLet" LOC = "P34";  # BTN-4
+NET "modeNum" LOC = "P35";  # BTN-5
+
+#Encode Input
+
+
+#NET "A<2>"	LOC = "P88";	# SW6
+#NET "A<3>"	LOC = "P85";	# SW7
+NET "encoder<0>"	LOC = "P15";	# SW0
+NET "encoder<1>"	LOC = "P12";	# SW1
+NET "encoder<2>"	LOC = "P5";	# SW2
+NET "encoder<3>"	LOC = "P4";	# SW3
+NET "encoder<4>"	LOC = "P94";	# SW4
+NET "encoder<5>"	LOC = "P90";	# SW5
+
+#DISPLAY
+NET "display<0>"	LOC = "P16";	# LED0
+NET "display<1>"	LOC = "P13";	
+NET "display<2>"	LOC = "P6";	
+NET "display<3>"	LOC = "P3";
+NET "display<4>"	LOC = "P93";
+NET "display<5>"	LOC = "P89";
+NET "display<6>"	LOC = "P86";	
+NET "display<7>"	LOC = "P84";
+NET "display<8>"	LOC = "P83";
+NET "display<9>"	LOC = "P77";	#LED9
+
